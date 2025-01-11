@@ -13,7 +13,7 @@ A few resources to get you started if this is your first Flutter project:
 
 ## Screenshots
 ![Logo Page](assets/images/logo-page.jpg)
-![Home Screen](assets/images/home-screen.png)
+![Home Screen](assets/images/home-screen.jng)
 ![Add to Cart](assets/images/add-to-cart.jpg)
 ![Settings](assets/images/second.jpg)
 
